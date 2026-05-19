@@ -1,0 +1,42 @@
+Item,Purpose,Source,Price,link
+
+1.Esp32 Dev Module,main micro controller,Amazon,5.7$,https://www.amazon.in/Robocraze-ESP32-Development-
+Board-Pin/dp/B0D6GDV77P/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.kds6pt1fpXZWjKgZ2GO6fJEoYcsi9TIQgFEv5lqximSKOh57P9Fo6Q-
+W5ybRafxdDEEIrhuegY73MHn_ysMczgTJxTdGXmgxzkTCoBzXbA1GnQIrVb4TBJc-DGu5BehbxWbMnlxIE6GCCHFjBuoJMG_86xmh1K-DXww_
+WROmKooSEbP7oD0nUJL6qO48uFxCKAhHc3a3fQNg3mQMPE_oWhP1QmSBtQVLmeKYnxS6aEM.0TtJV-37_H2ONV0gTxQ1LTK4ThSWjREGYMDMDiDOv3c&dib_
+tag=se&keywords=esp32&qid=1779176922&sr=8-1-spons&aref=vyc6uxBrd4&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+
+2.12x12mm Tactile Push Button x4,for Left click right click acroll up scroll down, amazon, 0.87$,https://www.amazon.in/Tactile-Push-
+Button-Switch-Round/dp/B09G2QJF5X/ref=sr_1_1?crid=1DSL3NCZW7GLC&dib=eyJ2IjoiMSJ9.Ewi-hA1AI8y2AikpAzBoYusncrhmZL8khdcge9TIrc
+3JbvYvfdccv1yemSTBqirSBeTi-gyqTpTfYkRsqeC8BVzRNeHOGU35kyaYOUjiWFa9sWFyQXnwjDSXlHVX3PMX5DMEbub19Isntt-
+g4UXkuEKhaPFCEtH_wh5ktqu8BfEf59IfYx7Yv2yeEjuJvH_-mhhP9cUYgvoXpUziUMJU-Re_iA1hZTAAHeLCgSugVT4jkbPaNDuHnCIt7VzmFhbe67BcCsnEjyZawRZmkqFgO
+-T3Fa6sHJCoRobDxmV9PYg.tQ8S6tqJN8IbaXMp23soXgXD55VLXX0Qdy1DqO68tuU&dib_tag=se&keywords=12x12mm+push+button&qid=
+1779181666&sprefix=12x12mm+push+button%2Caps%2C655&sr=8-1
+
+3.Tp4056 3.7v charging module, charging the battery, amazon, 1.32$,https://www.amazon.in/Electronicspices-Lithium-Battery-Charging-
+Protection/dp/B08HQWJ58Z/ref=sr_1_6?crid=1TXZ47TU3THN4&dib=eyJ2IjoiMSJ9.snz-ye3VMaBm-Y1K-606xEcXVesEx6f0CpijWzvgzsD_
+DvHRbLXzLJzxWhW1yD38mSXNWZxIaAJD2imp3oKjXTsKgEf3hOpH-9aW9MSf_8nbJw6SR4HCnJ1Cv9cRm-cXQJesKtEVUabp-E5mAYHrrZUXa3Xl4WzvjQG8-
+OvijAk7ojNLfAFykCGtOhhK-YfigPEAysiq6iEqJgKIjdpdXegnJGt-hEpTH1G2oVwoEcDlZQs-9fZyf_L1CCGpqzwL2L8vpAwZjVOWI2PUj1dLLDHm0FHPPczeEzW6sApRTUw.
+uoMaWyhW5qPxVJ_3zwtxgAohwbbm7hgfTXNycZFdjo8&dib_tag=se&keywords=tp4056%2Bcharging%2Bmodule%2Btype%2Bc&qid=1779181664&sprefix=
+tp4056%2Caps%2C529&sr=8-6&th=1
+
+4.3.7v li-ion battery (18650), to power the product, amazon, 4.14$,https://www.amazon.in/KP-Original-Rechargeable-Battery
+-Electronic/dp/B0GWVRSLWC/ref=sr_1_10?crid=269V0754RFC7I&dib=eyJ2IjoiMSJ9.iZip_uTPObL4F5cpP2oBfGdsmpOE66qkQA8LCc2rqjX6fBjZshdr86c5VR_
+-Ss2HOh8_T00q9R2ziQPpFkUyJrOrHufpjSSR94IsmLtGYr8ZqIJZt9LeqF6OULMvQCWQS8ueapdD2vuXkxCql_WAeuTkd37TV6QN-PHsObtDRU_vBzdP82Mei1H7Tu30gQSud-
+tPQ6VyGMmP3pq7T7hTWR36s2NWE5OArLfIebhn3L0.1A-Iwhz95bqBIuobtqPj7dJy25cNYtebRTZ41n3034o&dib_tag=se&keywords=3.7v+battery+18650&qid
+=1779181648&sprefix=3.7v+battery+18%2Caps%2C1284&sr=8-10
+
+5.MPU6050 Accelerometer, for movement detections, amazon, 3.00$,https://www.amazon.in/Robocraze-MPU-6050-Gyroscope-Accelerometer-
+Arduino/dp/B07H3XH1TB/ref=sr_1_1?crid=NBWXMO76XAUE&dib=eyJ2IjoiMSJ9.WEb2yoPHqOS3CH4mUd45PCZw8weadt9VHH3blNQVZVJbdz6HavsldC1kj_hkMoB
+-M6X4ye0P7fGSSC_c25p73Vc_89f9mRWax2SFkXCsW5KXAtc9PXbioo78SThzpJhc5NGuhq5050Pj4SM1kzLJJ1o8QhpUmEj0dmmm2xvkSAeDZJtsY
+MZnexpIMeNnd5fyFNrwfKgVk8CLDV3lhfe0U4TLIu7mQy8QVrMJJLyGyeR5DCF4AULfj0-lDnU9Hc0_ZzUZI0tJz8gU4q7kky_tied5s3byupaUfeYni426CBU.
+FGx0YOrMb5BpfCNon51m0hNwMVcTBHpmpVJRkhYB6iU&dib_tag=se&keywords=mpu6050&qid=1779181813&sprefix=mpu6050%2Caps%2C735&sr=8-1
+
+6.PLA 3d printing Filament 1kg Black, for making the case, amazon, 7.25$, https://www.amazon.in/PLA-3D-Flexibility-Eco-Friendly-
+Compatible/dp/B071D82LDV/ref=sr_1_2_sspa?crid=1UXA3765ES08V&dib=eyJ2IjoiMSJ9.Gvj0NlqIYsJNdbLlZjchSslVhu_JgJ2A0NCfyHXMwW729kOJ-
+tAQm2VbguKuR1gC_r_xtyB9DZE5HAXJ45zyxXWgvY3ay9Kg-M3MwYsxJtnLh_DB4b-FLyYZ8YP7XawYIXVuz9ra7AzEgZyDBT8eimSiRBKR3Wdu9zyWBnfjXk5Ub-5I-
+jeED7F2nmbyiWpzumzhAFgQniO4YyjUjlpFJN3aANGZqQNVBDoYTulew5i262pa5C6oOR3UxyE4lAsNSsS8dUaEoiSGo__Hj3blFdzM7CRkzKKQK6I39z0xNRY.XRY63-
+Yw4OaN7BqDOTxI45PBlwpopiVz_5jowOojHqE&dib_tag=se&keywords=pla+filament&qid=1779182142&sprefix=PLA+%2Caps%2C480&sr=8-2-spons&aref
+=VCNt1HRDzb&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+
+7.PCB, for embeding all components on one board, JlcPCB, 6.40$,https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006 
