@@ -49,6 +49,8 @@ Now the thing is, I am using breadboard for the final project and you can too bu
 
 That's it!!, You just created your own ESP32 based Air Mouse and now you are ready to use it. Try connecting it to the bluetooth of device named "AirPoint" and then it will work.
 
+This is how it looks like in real world...
+
 
 Here's the zine page of my Project....
 
