@@ -38,3 +38,17 @@ Now the time was to make my own custom case for it, So I started designing one a
 <img width="724" height="378" alt="Screenshot 2026-05-28 190233" src="https://github.com/user-attachments/assets/bcb52a59-0352-4e69-b305-e6b144a4f502" />
 
 If you want, you can even change the colours of the case accordingly, as I have provided the file of CAD, you can now print the case with ease.
+
+
+Now the thing is, I am using breadboard for the final project and you can too but if you are lazy then you can use PCB too, so I have provided the PCB file and it may cost around 6-7$, This is how the PCB will look like...
+
+<img width="1055" height="428" alt="Screenshot 2026-05-03 164901676767" src="https://github.com/user-attachments/assets/7a0e02cb-05e7-42db-b3b4-ddc42c9a0f82" />
+
+(NOTE :- If you are really using PCB for project then do remember to attach wires from switch to the PCB as the PCB will be at the bottom of the case and Switch may not reach the sufficient height.)
+
+
+That's it!!, You just created your own ESP32 based Air Mouse and now you are ready to use it. Try connecting it to the bluetooth of device named "AirPoint" and then it will work.
+
+
+Here's the zine page of my Project....
+
