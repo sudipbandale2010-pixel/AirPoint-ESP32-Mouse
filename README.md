@@ -34,3 +34,7 @@ And now, I was going to use the 18650 li-ion battery 3.7v with 3000mAh and Tp405
 
 
 Now the time was to make my own custom case for it, So I started designing one and it looked like this...
+
+<img width="724" height="378" alt="Screenshot 2026-05-28 190233" src="https://github.com/user-attachments/assets/bcb52a59-0352-4e69-b305-e6b144a4f502" />
+
+If you want, you can even change the colours of the case accordingly, as I have provided the file of CAD, you can now print the case with ease.
