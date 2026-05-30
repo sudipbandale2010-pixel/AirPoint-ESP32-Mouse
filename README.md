@@ -1,5 +1,6 @@
 # AirPoint-ESP32-Mouse
-This is an easy ESP32 Air mouse project which uses BLE for connecting to any other devices like Laptop, PC, Smart TVs, Projectors, and even mobiles and tablets. So we can say that its universal Air mouse.
+This is an easy ESP32 Air mouse project which uses BLE (Bluetooth Low Energy) for connecting to any other devices like Laptop, PC, Smart TVs, Projectors, and even mobiles and tablets. So we can say that its universal Air mouse.
+
 
 BOM:-
 
@@ -12,7 +13,7 @@ BOM:-
 7. 3mm diameter long screws x4           - 3.11$
 8. PCB                                   - 6.40$
  
- Total                                    - 25.39$
+ Total                                   - 25.39$   (It's cheap!!!!)
  
 
 Wiring diagram:-
@@ -40,19 +41,23 @@ Now the time was to make my own custom case for it, So I started designing one a
 If you want, you can even change the colours of the case accordingly, as I have provided the file of CAD, you can now print the case with ease.
 
 
-Now the thing is, I am using breadboard for the final project and you can too but if you are lazy then you can use PCB too, so I have provided the PCB file and it may cost around 6-7$, This is how the PCB will look like...
+Now the thing is, I am using breadboard for the final project and you can too but if you are feeling lazy then you can use PCB too, so I have provided the PCB gerber files and it may cost around 6-7$ (Depends from where you are buying it,I used JLC PCB), This is how the PCB will look like...
 
 <img width="1055" height="428" alt="Screenshot 2026-05-03 164901676767" src="https://github.com/user-attachments/assets/7a0e02cb-05e7-42db-b3b4-ddc42c9a0f82" />
 
 (NOTE :- If you are really using PCB for project then do remember to attach wires from switch to the PCB as the PCB will be at the bottom of the case and Switch may not reach the sufficient height.)
 
 
-That's it!!, You just created your own ESP32 based Air Mouse and now you are ready to use it. Try connecting it to the bluetooth of device named "AirPoint" and then it will work.
+That's it!!, You just created your own ESP32 based Air Mouse and now you are ready to use it. Now turn on the bluetooth of device(ex- phone or smart TV), and connect the device with AirPoint.
+
 
 This is how it looks like in real world...
+
+<img width="1536" height="1024" alt="AirPoint in realworld" src="https://github.com/user-attachments/assets/5f390cfb-484f-4327-9de5-f9187989944d" />
 
 
 Here's the zine page of my Project....
 
-
 <img width="1398" height="2000" alt="Airpoint (1)" src="https://github.com/user-attachments/assets/b7ca039f-89c4-4329-a894-f8dfcfdb7a6b" />
+
+see ya!!!! :)
