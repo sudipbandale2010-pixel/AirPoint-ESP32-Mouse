@@ -48,7 +48,15 @@ Now the thing is, I am using breadboard for the final project and you can too bu
 (NOTE :- If you are really using PCB for project then do remember to attach wires from switch to the PCB as the PCB will be at the bottom of the case and Switch may not reach the sufficient height.)
 
 
-That's it!!, You just created your own ESP32 based Air Mouse and now you are ready to use it. Now turn on the bluetooth of device(ex- phone or smart TV), and connect the device with AirPoint.
+That's it!!, You just created your own ESP32 based Air Mouse and now you are ready to use it. 
+
+
+How to use it? 
+Turn on the bluetooth of device(ex- phone or smart TV), and connect the device with AirPoint, You will see that the cursor is moving by the AirPoint, the upper two buttons are RMB and LMB, and the bottom and verticle buttons are for scrolling.
+
+
+Goal:
+For how long are we using the mouse which just rubs against the surface, to be futurastic, I made my own custom air mouse, AirPoint.
 
 
 This is how it looks like in real world...
