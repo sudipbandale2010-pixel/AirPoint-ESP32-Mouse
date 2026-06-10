@@ -2,18 +2,21 @@
 This is an easy ESP32 Air mouse project which uses BLE (Bluetooth Low Energy) for connecting to any other devices like Laptop, PC, Smart TVs, Projectors, and even mobiles and tablets. So we can say that its universal Air mouse.
 
 
-BOM:-
+<details>
+<summary>Bill of Materials (BOM)</summary>
 
-1. Esp32 Dev Module                      - 5.70$
-2. 12x12mm Tactile Push Button x4        - 0.87$
-3. Tp4056 3.7v charging module           - 1.32$
-4. 3.7v li-ion battery (18650)           - 4.14$
-5. MPU6050 Accelerometer                 - 3.00$
-6. PLA 3d printing Filament 1kg Black    - 7.25$
-7. 3mm diameter long screws x4           - 3.11$
-8. PCB                                   - 6.40$
- 
- Total                                   - 25.39$   (It's cheap!!!!)
+| Item | Purpose | Source | Cost |
+|------|---------|---------|------|
+| ESP32 Dev Module | Main microcontroller | Amazon | $5.70 |
+| 12x12mm Tactile Push Buttons (x4) | Left click, right click, scroll up, scroll down | Amazon | $0.87 |
+| TP4056 Charging Module | Battery charging | Amazon | $1.32 |
+| 3.7V Li-ion Battery (18650) | Power source | Amazon | $4.14 |
+| MPU6050 Accelerometer/Gyroscope | Motion detection | Amazon | $3.00 |
+| PLA Filament | 3D printed enclosure | Amazon | $7.25 |
+| PCB | Custom circuit board | JLCPCB | $6.40 |
+| **TOTAL COST** |  |  | **$25.39** |
+
+</details>
  
 
 Wiring diagram:-
