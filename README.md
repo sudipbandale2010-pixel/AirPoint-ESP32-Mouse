@@ -64,6 +64,7 @@ For how long are we using the mouse which just rubs against the surface, to be f
 
 Here's the zine page of my Project....
 
-<img width="1398" height="2000" alt="Airpoint (1)" src="https://github.com/user-attachments/assets/b7ca039f-89c4-4329-a894-f8dfcfdb7a6b" />
+<img width="1398" height="2000" alt="Airpoint" src="https://github.com/user-attachments/assets/be6fb8ec-e798-4980-9b7d-dacd719fc491" />
+
 
 see ya!!!! :)
