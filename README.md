@@ -62,11 +62,6 @@ Goal:
 For how long are we using the mouse which just rubs against the surface, to be futurastic, I made my own custom air mouse, AirPoint.
 
 
-This is how it looks like in real world...
-
-<img width="1536" height="1024" alt="AirPoint in realworld" src="https://github.com/user-attachments/assets/5f390cfb-484f-4327-9de5-f9187989944d" />
-
-
 Here's the zine page of my Project....
 
 <img width="1398" height="2000" alt="Airpoint (1)" src="https://github.com/user-attachments/assets/b7ca039f-89c4-4329-a894-f8dfcfdb7a6b" />
