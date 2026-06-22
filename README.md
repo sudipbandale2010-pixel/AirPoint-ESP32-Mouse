@@ -58,7 +58,7 @@ How to use it?
 Turn on the bluetooth of device(ex- phone or smart TV), and connect the device with AirPoint, You will see that the cursor is moving by the AirPoint, the upper two buttons are RMB and LMB, and the bottom and verticle buttons are for scrolling.
 
 
-Goal:
+Why I built this:
 For how long are we using the mouse which just rubs against the surface, to be futurastic, I made my own custom air mouse, AirPoint.
 
 
