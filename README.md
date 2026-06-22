@@ -64,7 +64,8 @@ For how long are we using the mouse which just rubs against the surface, to be f
 
 Here's the zine page of my Project....
 
-<img width="1398" height="2000" alt="Airpoint" src="https://github.com/user-attachments/assets/be6fb8ec-e798-4980-9b7d-dacd719fc491" />
+
+<img width="1051" height="1496" alt="ChatGPT Image Jun 22, 2026, 08_12_18 PM" src="https://github.com/user-attachments/assets/a91e0f31-0478-417e-95d1-1481b8cfd86d" />
 
 
 see ya!!!! :)
